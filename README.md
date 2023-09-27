@@ -8,8 +8,8 @@
 
 I'm a Mechatronics and Embedded Systems student who is passionate about Embedded Systems and Automotive Industry.
 
-- 🎓 &nbsp; I’m currently a senior student at Tanta University Mechatroncis department.
-- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR.
+- 🎓 &nbsp; I’m currently a senior student at Tanta University's Mechatronics Department.
+- 🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Embedded Linux, and AUTOSAR.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mohamed-magdi-4b209b218/) [Gmail](https://www.mohamed.m.alsehli@gmail.com)
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
