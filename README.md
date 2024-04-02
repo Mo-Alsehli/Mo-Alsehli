@@ -1,8 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<h2> Hey there! I'm Mohamed Magdi.</h2>
+<h2> Hey there! I'm Mohamed Magdi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
-<img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -11,6 +10,8 @@ I'm a Mechatronics and Embedded Systems student who is passionate about Embedded
 - 🎓 &nbsp; I’m currently a senior student at Tanta University's Mechatronics Department.
 - 🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Embedded Linux, and AUTOSAR.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mohamed-magdi-4b209b218/) [Gmail](https://www.mohamed.m.alsehli@gmail.com)
+
+<img width="400" align="center" alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
