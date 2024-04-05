@@ -5,7 +5,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 <img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
-I'm a Mechatronics and Embedded Systems student who is passionate about Embedded Systems and Automotive Industry.
+I'm a Mechatronics and Embedded Systems student who is passionate about Embedded Systems, CNC Machines, and Automotive Industry.
 
 - 🎓 &nbsp; I’m currently a senior student at Tanta University's Mechatronics Department.
 - 🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Embedded Linux, CNC Machines&Programming, and AUTOSAR.
@@ -73,7 +73,7 @@ I'm a Mechatronics and Embedded Systems student who is passionate about Embedded
 > 3D Contrib
 <div align="center">
   <img  src = "https://github.com/Mo-Alsehli/Mo-Alsehli/blob/master/profile-3d-contrib/profile-season-animate.svg"
-       alt="3d-contrib" height = 85% /></a>
+       alt="3d-contrib" height = 85% width = 70% /></a>
 </div>
 
 > Contribution Graph
