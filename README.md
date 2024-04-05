@@ -71,7 +71,10 @@ I'm a Mechatronics and Embedded Systems student who is passionate about Embedded
 ---
 ### 📊 Profile contribution
 > 3D Contrib
-![svg](https://github.com/Mo-Alsehli/Mo-Alsehli/blob/master/profile-3d-contrib/profile-season-animate.svg)
+<div align="center">
+  <img  src = "https://github.com/Mo-Alsehli/Mo-Alsehli/blob/master/profile-3d-contrib/profile-season-animate.svg"
+       alt="3d-contrib" height = 85% /></a>
+</div>
 
 > Contribution Graph
 <div align="center">
