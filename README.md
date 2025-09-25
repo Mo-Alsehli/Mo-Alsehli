@@ -1,89 +1,121 @@
-<div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 250px width = 60%  /></div>
+# Mohamed Magdi - Embedded Systems & Mechatronics Engineer
 
-<h2> Hey there! I'm Mohamed Magdi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
-<img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
-🎓 I'm a **Mechatronics Engineering Graduate** from Tanta University (2024), passionate about **Embedded Systems, System Programming, IoT, and Automotive Software**.  
 
-💡 I’m currently pursuing an **Embedded Linux Trainee at NTI**, gaining hands-on experience with **C++, Linux Administration, and Embedded Linux development**.  
+## About Me
 
-🔧 My background includes **firmware development for STM32**, **Linux-based utilities & shell projects**, and **real-time systems with FreeRTOS**.  
+🎓 I'm a **Mechatronics Engineering Graduate** from Tanta University (2024), passionate about **Embedded Systems, System Programming, IoT, and Automotive Software**. My academic journey has provided me with a strong foundation in designing and implementing complex systems, blending mechanical and electronic engineering principles.
 
-🚀 I enjoy working on **automotive projects (ADAS, DMS, Blind Spot Detection, Cruise Control)**, embedded software testing, and **system-level programming**.  
+💡 I'm currently pursuing an **Embedded Linux Trainee at NTI**, gaining hands-on experience with **C++, Linux Administration, and Embedded Linux development**. This role has allowed me to delve deeper into the intricacies of Embedded Linux, including cross-toolchain setup, U-Boot bootloader, kernel compilation, and BusyBox integration for Raspberry Pi 3. I've also gained valuable insights into IoT, focusing on connectivity and system integration.
 
----
+🔧 My background includes extensive **firmware development for STM32 microcontrollers (ARM Cortex-M)**, implementing peripheral drivers (UART, I2C, SPI), and developing real-time applications with **FreeRTOS**. I've also built **Linux-based utilities & shell projects** in C, demonstrating a deep understanding of Unix-based systems, process management, IPC, and system calls. My experience extends to designing and integrating control system software modules for CNC machinery, emphasizing real-time system performance and embedded control solutions.
 
-## 🤝 How to reach me
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamed-magdi-4b209b218/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="mailto:mohamed.m.alsehli@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
-<a href="https://discordapp.com/users/muhammed_mgdi/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-</p>
+🚀 I enjoy working on **automotive projects (ADAS, DMS, Blind Spot Detection, Cruise Control)**, embedded software testing, and **system-level programming**. My goal is to contribute to innovative solutions in the automotive, IoT, and telecommunications domains, leveraging my skills in C/C++, Linux, and real-time systems.
 
----
 
-<h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
-- 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=cplusplus)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
 
-- ⚙️ &nbsp;
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-  ![Embedded Linux](https://img.shields.io/badge/-Embedded%20Linux-333333?style=flat&logo=linux)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![QEMU](https://img.shields.io/badge/-QEMU-333333?style=flat&logo=qemu)
+## 🛠️ Skills & Expertise
 
-- 🔧 &nbsp;
-  ![STM32](https://img.shields.io/badge/-STM32-333333?style=flat&logo=stmicroelectronics)
-  ![RTOS](https://img.shields.io/badge/-RTOS-333333?style=flat&logo=freebsd)
-  ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=mathworks)
-  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+My technical skill set is comprehensive, covering various aspects of embedded systems, software development, and mechatronics:
 
----
+*   **Programming Languages:** C, C++, Python
+*   **Embedded Systems:** STM32, ESP32, ARM Cortex-M, Embedded Linux, Raspberry Pi, Yocto, U-Boot
+*   **Linux & Tools:** Linux/Unix OS, Linux administration, Shell scripting, Git & GitHub, QEMU Emulator, MATLAB Simulink
+*   **Firmware Development:** Basic RTOS (FreeRTOS), UART, I2C, SPI, GPIO, Timers, ADCs
+*   **IoT & Connectivity:** Device communication, system integration, JSON protocols
+*   **Control & Mechatronics:** Robotics, motor control, PLCs, VFD programming, system architecture
+*   **Soft Skills:** Business English, Presentation Skills, Team Collaboration, Problem-Solving
+
+
+
 
 ## 🚀 Featured Projects
 
-- **[ADAS System (Graduation Project)](https://github.com/Mo-Alsehli/ADAS_System_G.P)**  
-  Developed Driver Monitoring, Blind Spot Detection, Cruise Control with 90% accuracy @ 20 FPS.  
+Here are some of my key projects that showcase my skills and passion for embedded systems and software development:
 
-- **[Linux System Programming](https://github.com/Mo-Alsehli/System_Programming_Linux/tree/master/examples)**  
-  Built Unix utilities & shell-like programs in C (fork, exec, pipe, dup2, IPC, memory mapping).  
+### 1. Advanced Driver Assistance System (ADAS)
+*   **Description:** Developed a comprehensive GUI-based ADAS system incorporating Driver Monitoring, Blind Spot Detection, Rear-Collision Assistance, and Cruise Control functionalities.
+*   **Key Achievements:**
+    *   Optimized Driver Monitoring System (DMS) to achieve 90% accuracy at 20 FPS.
+    *   Implemented Cruise Control with a precision of ±1 km/h braking control.
+*   **Technologies:** Computer Vision, GUI development, Real-time control.
 
-- **[RealTime JSON Sensor Actuator Manager](https://github.com/Mo-Alsehli/RealTime_JSON_Sensor_Actuator_Manager)**  
-  STM32 + FreeRTOS project for JSON-based real-time sensor/actuator control.  
+### 2. Real-Time JSON Sensor Actuator Manager (STM32 + FreeRTOS)
+*   **Description:** Designed and implemented a real-time system for STM32 microcontrollers to manage sensors and actuators.
+*   **Key Achievements:**
+    *   Enabled JSON-based communication over UART for seamless data exchange between sensors and actuators.
+    *   Utilized FreeRTOS for efficient real-time task scheduling and management.
+*   **Technologies:** STM32, FreeRTOS, UART, JSON, Embedded C.
+
+### 3. Programming Linux Utilities & Shell Projects
+*   **Description:** Developed multiple Unix-based utilities and shell-like programs in C.
+*   **Key Achievements:**
+    *   Implemented core shell features such as command parsing, process forking, piping, redirection, and signal handling.
+    *   Gained a deep understanding of Linux internals, system calls, and Inter-Process Communication (IPC).
+*   **Technologies:** C, Linux/Unix OS, System Calls, IPC, Shell Scripting.
+
+
+
+
+## 🎓 Education
+
+*   **Bachelor of Mechatronics Engineering**
+    *   Tanta University | Graduated 2024 | GPA: 3.0
+    *   **Graduation Project:** Advanced Driver Assistance System (ADAS)
+
+*   **Advanced Full-Stack Trainee**
+    *   Udacity Nano Degree Program (FWD Egypt) | 2022
+    *   Focused on building full-stack applications using modern frameworks and enhancing problem-solving, code organization, and software architecture skills.
+
+
+
+
+## 🤝 How to Reach Me
+
+*   **LinkedIn:** [Mohamed Magdi](https://www.linkedin.com/in/mohamed-magdi-4b209b218)
+*   **GitHub:** [Mo-Alsehli](https://github.com/Mo-Alsehli)
+*   **Email:** mohamed.m.alsehli@gmail.com
+*   **X (Twitter):** [@muhammedmgdi](https://twitter.com/muhammedmgdi)
+
+
+
+
+## 📊 GitHub Stats
+
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mo-Alsehli&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Alsehli&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mo-Alsehli&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Mo-Alsehli&theme=radical)
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 🎯 Current Goals
+
+*   🔭 I'm currently working on **Embedded Linux development** and **IoT connectivity solutions**
+*   🌱 I'm currently learning **Advanced Yocto Project customization** and **Device Tree configurations**
+*   👯 I'm looking to collaborate on **Automotive Software projects** and **Embedded IoT systems**
+*   🤔 I'm looking for help with **Advanced RTOS optimization** and **Real-time system design patterns**
+*   💬 Ask me about **STM32 development**, **Linux system programming**, or **Automotive ADAS systems**
+*   📫 How to reach me: **mohamed.m.alsehli@gmail.com**
+*   ⚡ Fun fact: **I enjoy optimizing embedded systems for maximum performance and minimal resource usage**
 
 ---
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Problem Solving
-<p>
-<a href="https://leetcode.com/Mohamed_Magdi/" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/ccea8959-b23e-4619-893d-18f85870b45e" alt="leetcode" height="50" width="50" /></a>
-<a href="https://www.hackerrank.com/profile/Mohamed_Mgdi" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/b0b5cfe3-3565-41d1-a1f5-6a3f88f4c42f" alt="hackerrank" height="50" width="50" /></a>
-</p>
-
----
-
-### ✨ Visitors
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mo-Alsehli" alt="Mo-Alsehli" /> </p>
-
----
-
-### 📊 Profile stats
-[![Mohamed Magdi 's github stats](https://github-readme-stats.vercel.app/api?username=Mo-Alsehli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mo-Alshli/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Alsehli&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mohamed_magdi" /></p>
-
----
-
-### 📊 Profile contribution
-> 3D Contrib
 <div align="center">
-  <img  src = "https://github.com/Mo-Alsehli/Mo-Alsehli/blob/master/profile-3d-contrib/profile-season-animate.svg"
-       alt="3d-contrib" height = 85% width = 70% /></a>
+  <img src="https://komarev.com/ghpvc/?username=Mo-Alsehli&label=Profile%20views&color=0e75b6&style=flat" alt="Mo-Alsehli" />
+</div>
+
+<div align="center">
+  <h3>Thanks for visiting my profile! 😊</h3>
+  <p>Feel free to reach out if you'd like to collaborate on exciting embedded systems projects!</p>
 </div>
