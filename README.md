@@ -21,45 +21,39 @@
 ---
 
 ## 🛠️ Skills & Expertise
-
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> 
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/> 
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="45" height="45"/> 
-  </a>
-  <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/1a5bcb90-e9d8-4697-b59a-dc613de5e754" alt="stm32" width="45" height="45"/> 
-  </a>
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="45" height="45"/> 
-  </a>
-  <a href="https://www.yoctoproject.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/bfc63e2e-114e-42c4-a627-910b28441390" alt="yocto" width="45" height="45"/> 
-  </a>
-  <a href="https://www.freertos.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/53a63563-9a28-47ee-96ef-357f136d857c" alt="freertos" width="45" height="45"/> 
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/></a></td>
+      <td width="20"></td>
+      <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/></a></td>
+      <td width="20"></td>
+      <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a></td>
+      <td width="20"></td>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a></td>
+      <td width="20"></td>
+      <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></a></td>
+      <td width="20"></td>
+      <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a></td>
+    </tr>
+    <tr>
+      <td height="20" colspan="11"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/></a></td>
+      <td width="20"></td>
+      <td><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="45" height="45"/></a></td>
+      <td width="20"></td>
+      <td><a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/1a5bcb90-e9d8-4697-b59a-dc613de5e754" alt="stm32" width="45" height="45"/></a></td>
+      <td width="20"></td>
+      <td><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="45" height="45"/></a></td>
+      <td width="20"></td>
+      <td><a href="https://www.yoctoproject.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/bfc63e2e-114e-42c4-a627-910b28441390" alt="yocto" width="45" height="45"/></a></td>
+      <td width="20"></td>
+      <td><a href="https://www.freertos.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/53a63563-9a28-47ee-96ef-357f136d857c" alt="freertos" width="45" height="45"/></a></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -169,11 +163,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mo-Alsehli&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Alsehli&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" height="165"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mo-Alsehli&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
-</div>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mo-Alsehli&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
