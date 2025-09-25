@@ -1,121 +1,222 @@
-# Mohamed Magdi - Embedded Systems & Mechatronics Engineer
+# Mohamed Magdi - Embedded Linux Engineer
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=E73C7E&center=true&vCenter=true&width=435&lines=Embedded+Systems+Engineer;Mechatronics+Graduate;Linux+%26+IoT+Enthusiast;ADAS+%26+Automotive+Expert" alt="Typing SVG" />
+</div>
 
+---
 
+## 👨‍💻 About Me
 
-## About Me
+👋 Hi, I'm **Mohamed Magdi**, a passionate **Embedded Systems / Mechatronics Engineer** with a strong focus on **Embedded Linux, IoT, and Automotive Software**.
 
-🎓 I'm a **Mechatronics Engineering Graduate** from Tanta University (2024), passionate about **Embedded Systems, System Programming, IoT, and Automotive Software**. My academic journey has provided me with a strong foundation in designing and implementing complex systems, blending mechanical and electronic engineering principles.
+🎓 I graduated from **Tanta University** in 2024 with a degree in **Mechatronics Engineering** (GPA: 3.0).
 
-💡 I'm currently pursuing an **Embedded Linux Trainee at NTI**, gaining hands-on experience with **C++, Linux Administration, and Embedded Linux development**. This role has allowed me to delve deeper into the intricacies of Embedded Linux, including cross-toolchain setup, U-Boot bootloader, kernel compilation, and BusyBox integration for Raspberry Pi 3. I've also gained valuable insights into IoT, focusing on connectivity and system integration.
+💡 Currently, I'm an **Embedded Linux Trainee at NTI**, where I'm enhancing my skills in **C++, Linux Administration, and Embedded Linux development**.
 
-🔧 My background includes extensive **firmware development for STM32 microcontrollers (ARM Cortex-M)**, implementing peripheral drivers (UART, I2C, SPI), and developing real-time applications with **FreeRTOS**. I've also built **Linux-based utilities & shell projects** in C, demonstrating a deep understanding of Unix-based systems, process management, IPC, and system calls. My experience extends to designing and integrating control system software modules for CNC machinery, emphasizing real-time system performance and embedded control solutions.
+🔧 My expertise spans **firmware development for STM32**, **Linux-based system programming**, and **real-time systems with FreeRTOS**.
 
-🚀 I enjoy working on **automotive projects (ADAS, DMS, Blind Spot Detection, Cruise Control)**, embedded software testing, and **system-level programming**. My goal is to contribute to innovative solutions in the automotive, IoT, and telecommunications domains, leveraging my skills in C/C++, Linux, and real-time systems.
+🚀 I'm driven by innovative **automotive projects (ADAS, DMS, Blind Spot Detection, Cruise Control)** and committed to contributing to cutting-edge solutions in the automotive, IoT, and telecommunications sectors.
 
-
-
+---
 
 ## 🛠️ Skills & Expertise
 
-My technical skill set is comprehensive, covering various aspects of embedded systems, software development, and mechatronics:
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> 
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> 
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> 
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> 
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/> 
+  </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="45" height="45"/> 
+  </a>
+  <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/user-attachments/assets/1a5bcb90-e9d8-4697-b59a-dc613de5e754" alt="stm32" width="45" height="45"/> 
+  </a>
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="45" height="45"/> 
+  </a>
+  <a href="https://www.yoctoproject.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/user-attachments/assets/bfc63e2e-114e-42c4-a627-910b28441390" alt="yocto" width="45" height="45"/> 
+  </a>
+  <a href="https://www.freertos.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/user-attachments/assets/53a63563-9a28-47ee-96ef-357f136d857c" alt="freertos" width="45" height="45"/> 
+  </a>
+</p>
 
-*   **Programming Languages:** C, C++, Python
-*   **Embedded Systems:** STM32, ESP32, ARM Cortex-M, Embedded Linux, Raspberry Pi, Yocto, U-Boot
-*   **Linux & Tools:** Linux/Unix OS, Linux administration, Shell scripting, Git & GitHub, QEMU Emulator, MATLAB Simulink
-*   **Firmware Development:** Basic RTOS (FreeRTOS), UART, I2C, SPI, GPIO, Timers, ADCs
-*   **IoT & Connectivity:** Device communication, system integration, JSON protocols
-*   **Control & Mechatronics:** Robotics, motor control, PLCs, VFD programming, system architecture
-*   **Soft Skills:** Business English, Presentation Skills, Team Collaboration, Problem-Solving
-
-
-
+---
 
 ## 🚀 Featured Projects
 
-Here are some of my key projects that showcase my skills and passion for embedded systems and software development:
+### 🚗 **ADAS System (Graduation Project)**
+<a href="https://github.com/Mo-Alsehli/ADAS_System_G.P">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo-Alsehli&repo=ADAS_System_G.P&theme=radical&border_radius=10" alt="ADAS System" />
+</a>
 
-### 1. Advanced Driver Assistance System (ADAS)
-*   **Description:** Developed a comprehensive GUI-based ADAS system incorporating Driver Monitoring, Blind Spot Detection, Rear-Collision Assistance, and Cruise Control functionalities.
-*   **Key Achievements:**
-    *   Optimized Driver Monitoring System (DMS) to achieve 90% accuracy at 20 FPS.
-    *   Implemented Cruise Control with a precision of ±1 km/h braking control.
-*   **Technologies:** Computer Vision, GUI development, Real-time control.
+**Description:** Developed a comprehensive GUI-based Advanced Driver Assistance System incorporating Driver Monitoring, Blind Spot Detection, Rear-Collision Assistance, and Cruise Control functionalities.
 
-### 2. Real-Time JSON Sensor Actuator Manager (STM32 + FreeRTOS)
-*   **Description:** Designed and implemented a real-time system for STM32 microcontrollers to manage sensors and actuators.
-*   **Key Achievements:**
-    *   Enabled JSON-based communication over UART for seamless data exchange between sensors and actuators.
-    *   Utilized FreeRTOS for efficient real-time task scheduling and management.
-*   **Technologies:** STM32, FreeRTOS, UART, JSON, Embedded C.
+**Key Achievements:**
+- 🎯 Optimized Driver Monitoring System (DMS) to achieve **90% accuracy at 20 FPS**
+- 🚙 Implemented Cruise Control with precision of **±1 km/h braking control**
+- 🔧 **Technologies:** Computer Vision, GUI Development, Real-time Control, OpenCV
 
-### 3. Programming Linux Utilities & Shell Projects
-*   **Description:** Developed multiple Unix-based utilities and shell-like programs in C.
-*   **Key Achievements:**
-    *   Implemented core shell features such as command parsing, process forking, piping, redirection, and signal handling.
-    *   Gained a deep understanding of Linux internals, system calls, and Inter-Process Communication (IPC).
-*   **Technologies:** C, Linux/Unix OS, System Calls, IPC, Shell Scripting.
+---
 
+### ⚡ **Real-Time JSON Sensor-Actuator Manager**
+<a href="https://github.com/Mo-Alsehli/RealTime_JSON_Sensor_Actuator_Manager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo-Alsehli&repo=RealTime_JSON_Sensor_Actuator_Manager&theme=radical&border_radius=10" alt="Real-Time JSON Manager" style="width: 400px;" />
+</a>
 
+**Description:** Designed and implemented a real-time system for STM32 microcontrollers to manage sensors and actuators with seamless communication protocols.
 
+**Key Features:**
+- 📡 JSON-based communication over UART for data exchange
+- ⏱️ FreeRTOS for efficient real-time task scheduling
+- 🔧 **Technologies:** STM32, FreeRTOS, UART, JSON, Embedded C
+
+---
+
+### 🐧 **Linux System Programming Projects**
+<a href="https://github.com/Mo-Alsehli/System_Programming_Linux">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo-Alsehli&repo=System_Programming_Linux&theme=radical&border_radius=10" alt="Linux System Programming" />
+</a>
+
+**Description:** Developed multiple Unix-based utilities and shell-like programs in C, demonstrating deep understanding of Linux internals and system programming.
+
+**Key Implementations:**
+- 🖥️ Core shell features: command parsing, process forking, piping, redirection
+- 🔄 Advanced signal handling and Inter-Process Communication (IPC)
+- 🔧 **Technologies:** C, Linux/Unix OS, System Calls, Shell Scripting
+
+---
+
+### 🔧 **Embedded Linux Development (NTI Training)**
+<a href="https://github.com/Mo-Alsehli/Embedded_Linux_NTI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo-Alsehli&repo=Embedded_Linux_NTI&theme=radical&border_radius=10" alt="Embedded Linux NTI" />
+</a>
+
+**Description:** Comprehensive collection of Embedded Linux projects covering cross-toolchain setup, bootloaders, kernel compilation, and device drivers.
+
+**Key Components:**
+- 🏗️ Cross-toolchain configuration for ARM architectures
+- 🚀 U-Boot bootloader customization and kernel integration
+- 🔧 **Technologies:** Yocto Project, U-Boot, Linux Kernel, Device Drivers
+
+---
+
+### 💰 **C++ Smart Wallet Application**
+<a href="https://github.com/Mo-Alsehli/Cpp_Smart_Wallet_Application">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo-Alsehli&repo=Cpp_Smart_Wallet_Application&theme=radical&border_radius=10" alt="Smart Wallet" />
+</a>
+
+**Description:** Object-oriented financial management application built with modern C++ practices, featuring secure transaction handling and user management.
+
+**Key Features:**
+- 💳 Secure transaction processing and account management
+- 🔐 User authentication and data encryption
+- 🔧 **Technologies:** C++, OOP Design Patterns, File I/O
+
+---
+
+### 🌐 **Professional Portfolio Website**
+<a href="https://github.com/Mo-Alsehli/Mohamed_Magdi_Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo-Alsehli&repo=Mohamed_Magdi_Portfolio&theme=radical&border_radius=10" alt="Portfolio" />
+</a>
+
+**Description:** Responsive and modern portfolio website showcasing projects, skills, and professional experience with interactive elements and smooth animations.
+
+**Key Features:**
+- 📱 Fully responsive design with modern UI/UX
+- 🎨 Interactive project showcase and contact forms
+- 🔧 **Technologies:** HTML5, CSS3, JavaScript, Responsive Design
+
+---
 
 ## 🎓 Education
 
-*   **Bachelor of Mechatronics Engineering**
-    *   Tanta University | Graduated 2024 | GPA: 3.0
-    *   **Graduation Project:** Advanced Driver Assistance System (ADAS)
+### 🏛️ **Bachelor of Mechatronics Engineering**
+- **Institution:** Tanta University
+- **Graduation:** 2024 | **GPA:** 3.0
+- **Graduation Project:** Advanced Driver Assistance System (ADAS)
 
-*   **Advanced Full-Stack Trainee**
-    *   Udacity Nano Degree Program (FWD Egypt) | 2022
-    *   Focused on building full-stack applications using modern frameworks and enhancing problem-solving, code organization, and software architecture skills.
+### 💻 **Advanced Full-Stack Development**
+- **Program:** Udacity Nano Degree (FWD Egypt)
+- **Year:** 2022
+- **Focus:** Full-stack applications, modern frameworks, software architecture
 
+---
 
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mo-Alsehli&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Alsehli&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" height="165"/>
+</div>
 
-## 🤝 How to Reach Me
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mo-Alsehli&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+</div>
 
-*   **LinkedIn:** [Mohamed Magdi](https://www.linkedin.com/in/mohamed-magdi-4b209b218)
-*   **GitHub:** [Mo-Alsehli](https://github.com/Mo-Alsehli)
-*   **Email:** mohamed.m.alsehli@gmail.com
-*   **X (Twitter):** [@muhammedmgdi](https://twitter.com/muhammedmgdi)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mo-Alsehli&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
 
+---
 
+## 🎯 Current Focus & Goals
 
+- 🔭 **Currently Working On:** Embedded Linux development and IoT connectivity solutions
+- 🌱 **Learning:** Advanced Yocto Project customization and Device Tree configurations
+- 👯 **Looking to Collaborate:** Automotive Software projects and Embedded IoT systems
+- 🤔 **Seeking Help With:** Advanced RTOS optimization and Real-time system design patterns
+- 💬 **Ask Me About:** STM32 development, Linux system programming, Automotive ADAS systems
+- ⚡ **Fun Fact:** I enjoy optimizing embedded systems for maximum performance and minimal resource usage
 
-## 📊 GitHub Stats
+---
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mo-Alsehli&show_icons=true&theme=radical)
+## 🤝 Let's Connect!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Alsehli&layout=compact&theme=radical)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-magdi-4b209b218)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mo-Alsehli)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.m.alsehli@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muhammedmgdi)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mo-Alsehli&theme=radical)
+</div>
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Mo-Alsehli&theme=radical)
+---
 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## 🎯 Current Goals
-
-*   🔭 I'm currently working on **Embedded Linux development** and **IoT connectivity solutions**
-*   🌱 I'm currently learning **Advanced Yocto Project customization** and **Device Tree configurations**
-*   👯 I'm looking to collaborate on **Automotive Software projects** and **Embedded IoT systems**
-*   🤔 I'm looking for help with **Advanced RTOS optimization** and **Real-time system design patterns**
-*   💬 Ask me about **STM32 development**, **Linux system programming**, or **Automotive ADAS systems**
-*   📫 How to reach me: **mohamed.m.alsehli@gmail.com**
-*   ⚡ Fun fact: **I enjoy optimizing embedded systems for maximum performance and minimal resource usage**
-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mo-Alsehli&label=Profile%20views&color=0e75b6&style=flat" alt="Mo-Alsehli" />
+  <img src="https://komarev.com/ghpvc/?username=Mo-Alsehli&label=Profile%20views&color=E73C7E&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <h3>Thanks for visiting my profile! 😊</h3>
-  <p>Feel free to reach out if you'd like to collaborate on exciting embedded systems projects!</p>
+  <h3>🚀 Thanks for visiting my profile!</h3>
+  <p><em>Feel free to reach out if you'd like to collaborate on exciting embedded systems projects!</em></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=42&fontColor=fff&animation=twinkling" width="100%"/>
 </div>
