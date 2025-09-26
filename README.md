@@ -129,17 +129,17 @@
 
 ---
 
-### 🌐 **Professional Portfolio Website**
-<a href="https://github.com/Mo-Alsehli/Mohamed_Magdi_Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo-Alsehli&repo=Mohamed_Magdi_Portfolio&theme=radical&border_radius=10" alt="Portfolio" />
+### 🌐 **From Zero To Pi**
+<a href="[https://github.com/Mo-Alsehli/Mohamed_Magdi_Portfolio](https://github.com/Mo-Alsehli/Rpi3b_Image_FromScratch-FromZeroToPi)">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo-Alsehli&repo=Rpi3b_Image_FromScratch-FromZeroToPi&theme=radical&border_radius=10" alt="Portfolio" />
 </a>
 
-**Description:** Responsive and modern portfolio website showcasing projects, skills, and professional experience with interactive elements and smooth animations.
+**Description:** A comprehensive guide for building a complete Raspberry Pi boot system from scratch, covering three progressive stages: U-Boot bootloader, Linux kernel integration, and BusyBox root filesystem.
 
 **Key Features:**
-- 📱 Fully responsive design with modern UI/UX
-- 🎨 Interactive project showcase and contact forms
-- 🔧 **Technologies:** HTML5, CSS3, JavaScript, Responsive Design
+- Stage 1: U-Boot bootloader setup
+- Stage 2: U-Boot with Raspberry Pi Linux kernel
+- Stage 3: Complete system with BusyBox root filesystem
 
 ---
 
