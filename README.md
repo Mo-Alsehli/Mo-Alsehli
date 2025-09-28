@@ -130,7 +130,7 @@
 ---
 
 ### 🌐 **From Zero To Pi**
-<a href="[https://github.com/Mo-Alsehli/Mohamed_Magdi_Portfolio](https://github.com/Mo-Alsehli/Rpi3b_Image_FromScratch-FromZeroToPi)">
+<a href="https://github.com/Mo-Alsehli/Rpi3b_Image_FromScratch-FromZeroToPi">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo-Alsehli&repo=Rpi3b_Image_FromScratch-FromZeroToPi&theme=radical&border_radius=10" alt="Portfolio" />
 </a>
 
