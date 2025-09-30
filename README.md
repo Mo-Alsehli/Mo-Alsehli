@@ -143,6 +143,15 @@
 
 ---
 
+### 🌐 **ESP32 IOT Control**
+<a href="https://github.com/Mo-Alsehli/ESP32_IOT_Control">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo-Alsehli&repo=ESP32_IOT_Control&theme=radical&border_radius=10" alt="Portfolio" />
+</a>
+
+**Description:** An interactive IoT system built using ESP32, capable of reading sensor values (temperature, humidity), controlling LED brightness via a potentiometer, and triggering a buzzer when exceeding thresholds. Firebase is used as the cloud backend, and a custom Android app (Flutter App) acts as the front-end interface.
+
+---
+
 ## 🎓 Education
 
 ### 🏛️ **Bachelor of Mechatronics Engineering**
