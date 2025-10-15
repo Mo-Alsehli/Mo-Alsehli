@@ -6,17 +6,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-👋 Hi, I'm **Mohamed Magdi**, a passionate **Embedded Systems / Mechatronics Engineer** with a strong focus on **Embedded Linux, IoT, and Automotive Software**.
+Hi, I’m Mohamed Magdi — a Mechatronics Engineer passionate about connecting hardware and software through Embedded Linux, IoT, and automotive systems.
 
-🎓 I graduated from **Tanta University** in 2024 with a degree in **Mechatronics Engineering** (GPA: 3.0).
+🎓 I graduated from Tanta University (2024) with a B.Sc. in Mechatronics Engineering (GPA: 3.0).
 
-💡 Currently, I'm an **Embedded Linux Trainee at NTI**, where I'm enhancing my skills in **C++, Linux Administration, and Embedded Linux development**.
+💻 I recently completed an Embedded Linux training at the National Telecommunication Institute (NTI), where I developed the Supra Dashboard — a full automotive instrument cluster built with Qt/QML on a Yocto-based Linux image for Raspberry Pi.
 
-🔧 My expertise spans **firmware development for STM32**, **Linux-based system programming**, and **real-time systems with FreeRTOS**.
+🧠 My experience covers firmware development (STM32, FreeRTOS), Linux system programming, Yocto customization, and CommonAPI/vSomeIP integration for automotive communication.
 
-🚀 I'm driven by innovative **automotive projects (ADAS, DMS, Blind Spot Detection, Cruise Control)** and committed to contributing to cutting-edge solutions in the automotive, IoT, and telecommunications sectors.
+🚗 I’m driven by innovation in automotive and embedded technologies — from ADAS and DMS systems to real-time Linux architectures — and I’m always looking for new challenges to grow and create meaningful solutions.
 
 ---
 
